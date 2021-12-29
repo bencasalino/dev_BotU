@@ -10,7 +10,7 @@
 
 .hero-banner {
     background: url(images/hero-waterfall-bg.png),
-      url(images/hero-space-bg.png), url(images/hero-pillars-bg.png),
+      url(images/hero-space-bg-this.png), url(images/hero-pillars-bg-best.png),
       url(images/hero-main-bg.png);
     height: 100vh;
     width: 100vw;
@@ -60,11 +60,6 @@
   /* a:visited { 
     color: white;
   } */
-
-hr {
-  background-color:white;
-  color: white;
-}
 
 
 .name-title {
